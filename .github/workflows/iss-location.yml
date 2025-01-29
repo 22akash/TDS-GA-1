@@ -1,0 +1,6 @@
+jobs:
+  test:
+    steps:
+      - name: akash.gundu@gramener.com
+        run: echo "Hello, world!"
+      
